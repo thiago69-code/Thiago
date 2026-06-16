@@ -1,4 +1,4 @@
-# Thiago
+# Olá! Bem-Vindos ao meu humilde Repositório
 - 📌 Transição de carreira
 - 💻 Especializando em Front-end
 - 📚 Desenvolvendo novas Habilidades
